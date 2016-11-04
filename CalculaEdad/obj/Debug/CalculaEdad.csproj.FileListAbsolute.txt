@@ -1,1 +1,6 @@
 C:\Users\USUARIO001\Desktop\Proyectos\CalculaEdad\CalculaEdad\bin\Debug\CalculaEdad.exe.config
+C:\Users\USUARIO001\Desktop\Proyectos\CalculaEdad\CalculaEdad\bin\Debug\CalculaEdad.exe
+C:\Users\USUARIO001\Desktop\Proyectos\CalculaEdad\CalculaEdad\bin\Debug\CalculaEdad.pdb
+C:\Users\USUARIO001\Desktop\Proyectos\CalculaEdad\CalculaEdad\obj\Debug\CalculaEdad.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO001\Desktop\Proyectos\CalculaEdad\CalculaEdad\obj\Debug\CalculaEdad.exe
+C:\Users\USUARIO001\Desktop\Proyectos\CalculaEdad\CalculaEdad\obj\Debug\CalculaEdad.pdb
