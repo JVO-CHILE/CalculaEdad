@@ -42,14 +42,14 @@ namespace CalculaEdad
         }
 
         private static int calcularEdad(DateTime fechaNacimiento)
-        {
-            DateTime aux = fechaNacimiento;
-            int cantDias=0, edad=0;
+        {            
+            int cantDias = 0;
+            float edad = 0;
 
             cantDias = (DateTime.Today - fechaNacimiento).Days;
-            edad = (cantDias - cantidadBisiestos(fechaNacimiento)) / 365;
+            edad = (float)(cantDias - cantidadBisiestos(fechaNacimiento)) / 365;
 
-            return edad;
+            return (int)edad;
         }
     }
 }
